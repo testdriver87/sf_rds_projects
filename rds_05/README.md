@@ -32,6 +32,7 @@
 ### Итоги и выводы
 
 Сcылка на мой Kaggle Kernel c лучшим резульататом:
+
 https://www.kaggle.com/testdriver87/rds-05-by-petr-skokov-var4?scriptVersionId=43687411
 
 [x] Лучший результат в совреновании на Kaggle в данный момент 0,96779.
