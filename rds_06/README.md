@@ -1,6 +1,6 @@
-## RDS 05: Ford vs Ferrari.
+## RDS 06: Возьмёте Бэтмобиль?
 
-Построение модели классификации изображений и участие в соотвестующем [соревновании на Kaggle](https://www.kaggle.com/c/sf-dl-car-classification/ "соревновании на Kaggle")
+Построение модели классификации изображений и участие в соотвестующем [соревновании на Kaggle](https://www.kaggle.com/c/sf-dst-car-price-prediction-part2/ "соревновании на Kaggle")
 
 ![](https://lms.skillfactory.ru/assets/courseware/v1/67aff42fc790c8a2282dc4b33f19a490/asset-v1:Skillfactory+DST-9+11DEC2019+type@asset+block/20573_Clipboard10_122_1113lo.jpg)
 
