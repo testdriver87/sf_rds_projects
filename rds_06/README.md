@@ -2,7 +2,7 @@
 
 Построение модели классификации изображений и участие в соотвестующем [соревновании на Kaggle](https://www.kaggle.com/c/sf-dst-car-price-prediction-part2/ "соревновании на Kaggle")
 
-![](https://lms.skillfactory.ru/assets/courseware/v1/67aff42fc790c8a2282dc4b33f19a490/asset-v1:Skillfactory+DST-9+11DEC2019+type@asset+block/20573_Clipboard10_122_1113lo.jpg | width=400)
+![](https://lms.skillfactory.ru/assets/courseware/v1/67aff42fc790c8a2282dc4b33f19a490/asset-v1:Skillfactory+DST-9+11DEC2019+type@asset+block/20573_Clipboard10_122_1113lo.jpg =300x)
 
 ### Данные для создания модели
 
