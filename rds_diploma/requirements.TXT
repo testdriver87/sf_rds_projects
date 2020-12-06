@@ -1,4 +1,0 @@
-streamlit
-pycaret
-pandas
-numpy
